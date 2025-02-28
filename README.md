@@ -1,8 +1,8 @@
 ## Olá! Eu sou Hallow, um jorvem programado!
 <div>
   <a href="https://beacons.ai/Hallow303">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hallow303&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hallow303&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Hallow303&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hallow303&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
 
@@ -32,7 +32,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hallow303/Hallow303/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hallow303/Hallow303/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hallow303/Hallow303/output/github-contribution-grid-snake.svg">
 </picture>
