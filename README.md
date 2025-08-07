@@ -9,14 +9,6 @@
 
 ---
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://beacons.ai/Hallow303">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hallow303&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ### 💻 Tecnologias que uso:
 <div style="display: inline_block"><br>
   <img align="center" alt="Hallow-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
