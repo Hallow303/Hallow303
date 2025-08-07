@@ -7,6 +7,8 @@
   </a>
 </div>
 
+---
+
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://beacons.ai/Hallow303">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hallow303&layout=compact&langs_count=8&theme=dracula"/>
