@@ -32,8 +32,6 @@ Have+fun+exploring%21+%F0%9F%9A%80" />
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Hallow303&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hallow303&theme=dracula&hide_border=true"/>
-
 </div>
 
 ---
@@ -41,7 +39,7 @@ Have+fun+exploring%21+%F0%9F%9A%80" />
 ### 🧩 Extra Info
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hallow303&layout=compact&theme=dracula&hide_border=true"/>
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hallow303&theme=dracula&hide_border=true"/>
 
 </div>
 
