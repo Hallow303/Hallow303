@@ -33,13 +33,3 @@
 <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,git,github,vscode" />
 
 </div>
-
----
-
-### 🔗 Links
-<div align="center">
-
-🌐 [Beacons](https://beacons.ai/Hallow303)  
-🐙 [GitHub Profile](https://github.com/Hallow303)
-
-</div>
