@@ -18,16 +18,8 @@
   <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/colored.png" />
 </p>
 
-### 📊 GitHub Stats
-<div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Hallow303&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
-
-</div>
-
----
-
-### 🛠️ Languages & Tools
+###     
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,git,github,vscode" />
