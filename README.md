@@ -14,10 +14,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/colored.png" />
-</p>
-
 
 ###     
 <div align="center">
